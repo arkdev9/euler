@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"arkdev.one/euler-solutions/one"
+	"arkdev.one/euler-solutions/two"
 )
 
 func main() {
-	fmt.Println(one.One())
+	fmt.Println(two.Two())
 }
